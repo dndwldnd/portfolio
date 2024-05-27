@@ -11,8 +11,14 @@
 
 # 📌 Projects
 ## 1. 
+>
+>
 
----
 ## 2. [Eventree](https://github.com/gaeun120312/KD3_B_Project)
-> ㄱ
----
+> 기업 행사 정보와 예술인 펀딩 정보를 알려주는 웹사이트 (팀프로젝트)
+> 
+> 개발 기간 : 2024.02.26 ~ 2024.04.19
+>
+> 기술 스택 : HTML / CSS / JAVA / JAVAScript / Ajax / Thymeleaf / MYSQL / Spring Boot / Eclipse
+> 
+> [상세 설명 참고](https://github.com/gaeun120312/KD3_B_Project)
