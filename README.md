@@ -15,7 +15,7 @@
 >
 > 개발 기간 : 2021.09.02  ~ 2021.12.21
 >
-> 기술 스택 : 
+> 기술 스택 : JAVA / Android Studio
 >
 > [상세 설명 참고](https://github.com/gaeun120312/Foren.git)
 
