@@ -19,7 +19,13 @@
 >
 > [상세 설명 참고](https://github.com/gaeun120312/Foren.git)
 
-## 2. [Eventree (이벤트리)](https://github.com/gaeun120312/KD3_B_Project)
+
+## 2. 
+>d
+>
+>
+
+## 3. [Eventree (이벤트리)](https://github.com/gaeun120312/KD3_B_Project)
 > 기업 행사 정보와 예술인 펀딩 정보를 알려주는 웹사이트 (팀 프로젝트)
 > 
 > 개발 기간 : 2024.02.26 ~ 2024.04.19
