@@ -6,7 +6,7 @@
 # 📌 Contact
 - 이메일 : gaeun120312@gmail.com
 - 깃허브 : https://github.com/gaeun120312
-- 노션 :
+- 노션 : https://www.notion.so/c66768de551d47cab4d5664ff0866534
 
 
 # 📌 Projects
