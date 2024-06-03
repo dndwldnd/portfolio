@@ -1,8 +1,9 @@
 # 이가은
 
-# 💻​ Intro
+# 💻​ Intro 
 저는
 
+</br>
 
 # 💻​ Contact
 - 이메일 : gaeun120312@gmail.com
