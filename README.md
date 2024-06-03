@@ -13,6 +13,8 @@
 - 노션 : https://www.notion.so/c66768de551d47cab4d5664ff0866534
 
 
+</br>
+
 # 💻​ Projects
 ## 1. [포엔 (For Engineering)](https://github.com/gaeun120312/Foren.git)
 > 공대생을 위한 앱 (팀 프로젝트)
@@ -23,11 +25,14 @@
 >
 > [상세 설명 참고](https://github.com/gaeun120312/Foren.git)
 
+</br>
 
 ## 2. 
 >d
 >
 >
+
+</br>
 
 ## 3. [Eventree (이벤트리)](https://github.com/gaeun120312/KD3_B_Project)
 > 기업 행사 정보와 예술인 펀딩 정보를 알려주는 웹사이트 (팀 프로젝트)
