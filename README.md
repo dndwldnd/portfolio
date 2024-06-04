@@ -27,10 +27,14 @@
 
 </br>
 
-## 2. 
->d
+## 2. [Word Chain Game (끝말잇기 게임)](https://github.com/gaeun120312/Word_Chain_Game)
+> 끝말잇기 게임 
 >
+> 개발 기간 : 2022.11.12 ~ 2022.12.14
 >
+> 기술 스택 : C / C++
+>
+> [상세 설명 참고](https://github.com/gaeun120312/Word_Chain_Game)
 
 </br>
 
