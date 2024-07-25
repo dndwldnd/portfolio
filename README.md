@@ -46,3 +46,15 @@
 > 기술 스택 : HTML / CSS / JAVA / JAVAScript / Ajax / Thymeleaf / MYSQL / Spring Boot / Eclipse
 > 
 > [상세 설명 참고](https://github.com/gaeun120312/KD3_B_Project)
+
+</br>
+
+## 4. [전통주 맞춤형 정보 제공 시스템](https://github.com/gaeun120312/2nd_project)
+> 자신이 원하는 전통주를 추천해주는 웹사이트 (팀 프로젝트)
+> 
+> 개발 기간 : 2024.02.26 ~ 2024.04.19
+>
+> 기술 스택 : Python / Html
+> 
+> [상세 설명 참고](https://github.com/gaeun120312/2nd_project).
+
