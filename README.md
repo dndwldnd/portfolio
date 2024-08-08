@@ -45,7 +45,7 @@
 > 
 > 개발 기간 : 2024.02.26 ~ 2024.04.19
 >
-> 기술 스택 : HTML / CSS / JAVA / JAVAScript / Ajax / Thymeleaf / MYSQL / Spring Boot / Eclipse
+> 기술 스택 : HTML / CSS / JAVA / JavaScript / Ajax / Thymeleaf / MYSQL / Spring Boot / Eclipse
 >
 > 핵심 역할 : 게시물 등록, 수정, 삭제 기능 / 관심 목록 기능
 > 
@@ -58,7 +58,7 @@
 > 
 > 개발 기간 : 2024.06.17 ~ 2024.07.01
 >
-> 기술 스택 : Python / Html / Django
+> 기술 스택 : Python / Html / CSS / JavaScript 
 >
 > 핵심 역할 : 팀장, 전통주 데이터 전처리 및 시각화 / 산출 문서 작성 및 PPT 제작
 > 
