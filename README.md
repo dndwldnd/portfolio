@@ -23,6 +23,8 @@
 >
 > 기술 스택 : JAVA / Android Studio
 >
+> 핵심 역할 : 
+> 
 > [상세 설명 참고](https://github.com/gaeun120312/Foren.git)
 
 </br>
