@@ -60,5 +60,5 @@
 >
 > 기술 스택 : Python / Html / Django
 > 
-> [상세 설명 참고](https://github.com/gaeun120312/2nd_project).
+> [상세 설명 참고](https://github.com/gaeun120312/2nd_project)
 
