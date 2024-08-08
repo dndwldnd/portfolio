@@ -23,7 +23,7 @@
 >
 > 기술 스택 : JAVA / Android Studio
 >
-> 핵심 역할 : 
+> 핵심 역할 : 공학용 뉴스 기사 - 공학 종류 선택(탭) / 항목 별 뉴스 기사 찾기 / 뉴스 api 가져오기 / 뉴스 리스트 뷰 개발
 > 
 > [상세 설명 참고](https://github.com/gaeun120312/Foren.git)
 
@@ -46,6 +46,8 @@
 > 개발 기간 : 2024.02.26 ~ 2024.04.19
 >
 > 기술 스택 : HTML / CSS / JAVA / JAVAScript / Ajax / Thymeleaf / MYSQL / Spring Boot / Eclipse
+>
+> 핵심 역할 : 
 > 
 > [상세 설명 참고](https://github.com/gaeun120312/KD3_B_Project)
 
@@ -54,9 +56,9 @@
 ## 4. [전통주 맞춤형 정보 제공 시스템](https://github.com/gaeun120312/2nd_project)
 > 자신이 원하는 전통주를 추천해주는 웹사이트 (팀 프로젝트)
 > 
-> 개발 기간 : 2024.02.26 ~ 2024.04.19
+> 개발 기간 : 2024.06.26 ~ 2024.07.19
 >
-> 기술 스택 : Python / Html
+> 기술 스택 : Python / Html / Django
 > 
 > [상세 설명 참고](https://github.com/gaeun120312/2nd_project).
 
