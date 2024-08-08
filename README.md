@@ -47,7 +47,7 @@
 >
 > 기술 스택 : HTML / CSS / JAVA / JAVAScript / Ajax / Thymeleaf / MYSQL / Spring Boot / Eclipse
 >
-> 핵심 역할 : 
+> 핵심 역할 : 게시물 등록, 수정, 삭제 기능 / 
 > 
 > [상세 설명 참고](https://github.com/gaeun120312/KD3_B_Project)
 
